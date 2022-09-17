@@ -1,0 +1,22 @@
+.login{
+    border: 1px solid ;
+    border-radius: 5px;
+    padding: 40px;
+    margin-top: 10%;
+    margin-left: 40%;
+    margin-right: 40%;
+}
+
+.login-title{
+    text-align: center;
+    font-family:Arial, Helvetica, sans-serif;
+}
+.submit{
+    padding:10px;
+    margin-left: 25%;
+    width: 50%;
+    margin-top: 20px;
+}
+span{
+    text-align: center;
+}
